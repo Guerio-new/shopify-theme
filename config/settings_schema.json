@@ -1,7 +1,7 @@
 [
   {
     "name": "theme_info",
-    "theme_name": "Sense",
+    "theme_name": "Sense-theme",
     "theme_version": "2.0.0",
     "theme_author": "Shopify",
     "theme_documentation_url": "https://help.shopify.com/en/manual/online-store/themes",
@@ -215,7 +215,7 @@
         "unit": "%",
         "label": "t:settings_schema.global.settings.opacity.label",
         "default": 15
-      },      
+      },
       {
         "type": "range",
         "id": "buttons_radius",
@@ -381,7 +381,7 @@
         "unit": "%",
         "label": "t:settings_schema.global.settings.opacity.label",
         "default": 15
-      },     
+      },
       {
         "type": "range",
         "id": "inputs_radius",
