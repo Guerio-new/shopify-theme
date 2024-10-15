@@ -3601,3 +3601,6 @@ details-disclosure > details {
 .list-menu__item{
   font-size: 18px;
 }
+.price-red{
+  color: #e70d0d;
+}
