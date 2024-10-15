@@ -11,40 +11,6 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
-    "newsletter_DW3rkn": {
-      "type": "newsletter",
-      "blocks": {
-        "heading_Fctd8k": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sign up and save",
-            "heading_size": "h1"
-          }
-        },
-        "paragraph_aLG6a7": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Subscribe to get 15% OFF code and free giveaways</p>"
-          }
-        },
-        "email_form_CkjJmg": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading_Fctd8k",
-        "paragraph_aLG6a7",
-        "email_form_CkjJmg"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -80,6 +46,40 @@
         "margin_top": 0,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "newsletter_DW3rkn": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_Fctd8k": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign up and save",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_aLG6a7": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Subscribe to get 15% OFF code and free giveaways</p>"
+          }
+        },
+        "email_form_CkjJmg": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_Fctd8k",
+        "paragraph_aLG6a7",
+        "email_form_CkjJmg"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
