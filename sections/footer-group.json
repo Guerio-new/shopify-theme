@@ -1,1 +1,82 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"footer":{"type":"footer","blocks":{"link_list_nFrtdM":{"type":"link_list","settings":{"heading":"快速链接","menu":"main-menu"}}},"block_order":["link_list_nFrtdM"],"settings":{"color_scheme":"scheme-1","newsletter_enable":false,"newsletter_heading":"","enable_follow_on_shop":true,"show_social":false,"enable_country_selector":true,"enable_language_selector":true,"payment_enable":true,"show_policy":true,"margin_top":0,"padding_top":36,"padding_bottom":36}}},"order":["footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "newsletter_DW3rkn": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_Fctd8k": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign up and save",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_aLG6a7": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Subscribe to get 15% OFF code and free giveaways</p>"
+          }
+        },
+        "email_form_CkjJmg": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_Fctd8k",
+        "paragraph_aLG6a7",
+        "email_form_CkjJmg"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "link_list_nFrtdM": {
+          "type": "link_list",
+          "settings": {
+            "heading": "快速链接",
+            "menu": "main-menu"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_nFrtdM"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "newsletter_enable": false,
+        "newsletter_heading": "",
+        "enable_follow_on_shop": true,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "newsletter_DW3rkn",
+    "footer"
+  ]
+}
