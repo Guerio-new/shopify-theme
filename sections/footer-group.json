@@ -52,12 +52,20 @@
           "type": "link_list",
           "settings": {
             "heading": "快速链接",
-            "menu": "main-menu"
+            "menu": "footer"
+          }
+        },
+        "link_list_HPnFyj": {
+          "type": "link_list",
+          "settings": {
+            "heading": "快速链接",
+            "menu": "2"
           }
         }
       },
       "block_order": [
-        "link_list_nFrtdM"
+        "link_list_nFrtdM",
+        "link_list_HPnFyj"
       ],
       "settings": {
         "color_scheme": "scheme-1",
