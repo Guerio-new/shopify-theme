@@ -35,56 +35,21 @@
       ],
       "settings": {
         "color_scheme": "scheme-1",
-        "newsletter_enable": false,
+        "newsletter_enable": true,
         "newsletter_heading": "",
         "enable_follow_on_shop": true,
-        "show_social": false,
+        "show_social": true,
         "enable_country_selector": true,
         "enable_language_selector": true,
         "payment_enable": true,
-        "show_policy": true,
+        "show_policy": false,
         "margin_top": 0,
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "newsletter_DW3rkn": {
-      "type": "newsletter",
-      "blocks": {
-        "heading_Fctd8k": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sign up and save",
-            "heading_size": "h1"
-          }
-        },
-        "paragraph_aLG6a7": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Subscribe to get 15% OFF code and free giveaways</p>"
-          }
-        },
-        "email_form_CkjJmg": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading_Fctd8k",
-        "paragraph_aLG6a7",
-        "email_form_CkjJmg"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
-    "newsletter_DW3rkn",
     "footer"
   ]
 }
