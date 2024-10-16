@@ -53,12 +53,6 @@
           "settings": {
           }
         },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        },
         "complementary_eCrkMA": {
           "type": "complementary",
           "settings": {
@@ -81,7 +75,6 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share",
         "complementary_eCrkMA"
       ],
       "settings": {
