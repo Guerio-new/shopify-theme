@@ -3604,3 +3604,6 @@ details-disclosure > details {
 .price-red{
   color: #e70d0d!important;
 }
+section{
+  border-top:1px solid #e8e8e1
+}
