@@ -245,8 +245,18 @@
   padding:0;
     position: absolute;
   bottom: 0;
-  border: 1px solid #fff;
+
   left: 50%;
   -webkit-transform: translateX(-50%);-moz-transform: translateX(-50%);-ms-transform: translateX(-50%);-o-transform: translateX(-50%);transform: translateX(-50%);  
+}
+.h-multicolumn .multicolumn-card__info .multicolumn-card__info .link .svg-wrapper{
+  display:none
+}
+.h-multicolumn .multicolumn-card__info .multicolumn-card__info .link{
+  padding:10px 20px;
+  font-size:13px;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 4px;
 }
 
