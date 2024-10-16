@@ -102,7 +102,7 @@
         "column_Ve6QA3": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/19_X_70mm_White-05_1.jpg",
+            "image": "shopify://shop_images/black-5.webp",
             "title": "",
             "text": "",
             "link_label": "SHOP THIS",
@@ -113,24 +113,47 @@
         "column_tiP7q7": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/19_X_70mm_White-04.jpg",
+            "image": "shopify://shop_images/19_X_70mm_White-05_1.jpg",
             "title": "D110 Labels Buy 3 Get 1 Free",
             "text": "",
             "link_label": "SHOP THIS",
             "link": "shopify://collections/super-daily-deal",
             "show_box": "true"
           }
+        },
+        "column_DydWwf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/M2_label_maker-2_7817fdce-4c5f-4602-ab8c-2a2c5c474658.webp",
+            "title": "",
+            "text": "",
+            "link_label": "SHOP THIS",
+            "link": "shopify://products/b21-label-maker-and-label-tape-set",
+            "show_box": "false"
+          }
+        },
+        "column_mtqGTx": {
+          "type": "column",
+          "settings": {
+            "title": "列",
+            "text": "<p>将文本与图片配对，以便将焦点置于您选择的产品、产品系列或博客文章。添加有关供货情况和样式的详细信息，甚至是提供评论。</p>",
+            "link_label": "",
+            "link": "",
+            "show_box": "false"
+          }
         }
       },
       "block_order": [
         "column_Ve6QA3",
-        "column_tiP7q7"
+        "column_tiP7q7",
+        "column_DydWwf",
+        "column_mtqGTx"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
@@ -138,34 +161,6 @@
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_collection_mPrWdq": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "new-arrival",
-        "products_to_show": 8,
-        "columns_desktop": 2,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -311,7 +306,6 @@
     "image_banner",
     "featured_collection",
     "h_multicolumn_KCQJMc",
-    "featured_collection_mPrWdq",
     "featured_collection_W6YcjW",
     "featured_collection_ajghXG",
     "featured_collection_UfHyxU",
