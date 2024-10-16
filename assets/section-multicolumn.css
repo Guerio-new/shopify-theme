@@ -231,3 +231,21 @@
     display: list-item;
   }
 }
+
+/* hsy */
+.h-multicolumn .multicolumn-card-spacing{
+  padding:0;
+  margin:0
+}
+.h-multicolumn.multicolumn.background-primary .multicolumn-card{
+  background:none;
+  position:relative;
+}
+.h-multicolumn .multicolumn-card__info{
+    position: absolute;
+  bottom: 0;
+  border: 1px solid #fff;
+  left: 50%;
+  -webkit-transform: translateX(-50%);-moz-transform: translateX(-50%);-ms-transform: translateX(-50%);-o-transform: translateX(-50%);transform: translateX(-50%);  
+}
+
