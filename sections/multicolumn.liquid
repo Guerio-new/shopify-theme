@@ -120,7 +120,9 @@
               {%- endif -%}
               <div class="multicolumn-card__info">
                 {%- if block.settings.svg_html != blank -%}
+                  <div class="svg_wrap">
                  {{  block.settings.svg_html }}
+                    </div>
                 {%- endif -%}
                 {%- if block.settings.title != blank -%}
                   <h3 class="inline-richtext">{{ block.settings.title }}</h3>
