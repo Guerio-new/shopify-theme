@@ -3606,5 +3606,7 @@ details-disclosure > details {
 }
 section{
   border-top:1px solid #e8e8e1
+} 
+.newsletter__wrapper{
+    background:#f9f9f9
 }
- 
