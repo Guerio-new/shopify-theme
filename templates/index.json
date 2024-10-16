@@ -408,7 +408,7 @@
         "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
-        "button_label": "按钮标签",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
