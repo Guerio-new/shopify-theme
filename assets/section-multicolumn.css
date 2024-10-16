@@ -283,3 +283,6 @@
   border-color:#000;
   background:#000
 }
+.h-multicolumn .multicolumn-list__item{
+  margin-bottom:80px
+}
