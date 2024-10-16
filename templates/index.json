@@ -164,6 +164,28 @@
             "link": "",
             "show_box": "true"
           }
+        },
+        "column_zAJCnd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/B1_label_maker-1_77bac0a3-cf7a-4710-b99a-40c0742d548f.webp",
+            "title": "",
+            "text": "",
+            "link_label": "SHOP THIS",
+            "link": "",
+            "show_box": "false"
+          }
+        },
+        "column_X7rHLN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/71NjQBd1vML.webp",
+            "title": "B1 Labels Buy 3 Get 1 Free",
+            "text": "",
+            "link_label": "SHOP THIS",
+            "link": "",
+            "show_box": "true"
+          }
         }
       },
       "block_order": [
@@ -172,7 +194,9 @@
         "column_DydWwf",
         "column_mtqGTx",
         "column_gbCzBW",
-        "column_qkVLrd"
+        "column_qkVLrd",
+        "column_zAJCnd",
+        "column_X7rHLN"
       ],
       "settings": {
         "title": "",
