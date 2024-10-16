@@ -157,11 +157,12 @@
         "column_qkVLrd": {
           "type": "column",
           "settings": {
-            "title": "列",
-            "text": "<p>将文本与图片配对，以便将焦点置于您选择的产品、产品系列或博客文章。添加有关供货情况和样式的详细信息，甚至是提供评论。</p>",
-            "link_label": "",
+            "image": "shopify://shop_images/71iaY0XnWWL.webp",
+            "title": "D110 Labels Buy 3 Get 1 Free",
+            "text": "",
+            "link_label": "SHOP THIS",
             "link": "",
-            "show_box": "false"
+            "show_box": "true"
           }
         }
       },
