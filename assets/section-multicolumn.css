@@ -277,6 +277,9 @@
   white-space: nowrap;
   margin-bottom: 12px;
 }
+.h-multicolumn .multicolumn-list__item.box-item .multicolumn-card__info{
+  bottom:10px
+}
 .h-multicolumn .multicolumn-list__item.box-item .multicolumn-card__info  .link{
   border-color:#000;
   background:#000
