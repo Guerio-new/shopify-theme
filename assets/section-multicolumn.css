@@ -244,7 +244,7 @@
 .h-multicolumn .multicolumn-card__info{
   padding:0;
     position: absolute;
-  bottom: 0;
+  bottom: 30px;
 
   left: 50%;
   -webkit-transform: translateX(-50%);-moz-transform: translateX(-50%);-ms-transform: translateX(-50%);-o-transform: translateX(-50%);transform: translateX(-50%);  
