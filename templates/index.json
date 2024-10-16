@@ -349,6 +349,69 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "multicolumn_k6BXqV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_THak9b": {
+          "type": "column",
+          "settings": {
+            "title": "Free Shipping",
+            "text": "<p>Free shipping to US&UK</p><p>Fast shipping worldwide</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_y9pjnt": {
+          "type": "column",
+          "settings": {
+            "title": "12 Month Warranty",
+            "text": "<p>1 year maintenance and repair</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7fpbqr": {
+          "type": "column",
+          "settings": {
+            "title": "Secure Payments",
+            "text": "<p>Visa, Mastercard, PayPal, Amex，Discover</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EGfdez": {
+          "type": "column",
+          "settings": {
+            "title": "Chat With Us",
+            "text": "<p>LiveChat support</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_THak9b",
+        "column_y9pjnt",
+        "column_7fpbqr",
+        "column_EGfdez"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "按钮标签",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -359,6 +422,7 @@
     "featured_collection_ajghXG",
     "featured_collection_UfHyxU",
     "featured_blog_qN7efP",
-    "newsletter_7WVeag"
+    "newsletter_7WVeag",
+    "multicolumn_k6BXqV"
   ]
 }
