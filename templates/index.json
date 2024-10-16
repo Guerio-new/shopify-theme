@@ -135,9 +135,10 @@
         "column_mtqGTx": {
           "type": "column",
           "settings": {
-            "title": "列",
-            "text": "<p>将文本与图片配对，以便将焦点置于您选择的产品、产品系列或博客文章。添加有关供货情况和样式的详细信息，甚至是提供评论。</p>",
-            "link_label": "",
+            "image": "shopify://shop_images/M2_LABEL_c9e5a9eb-3ef9-4a24-ab0e-771a4e4c2eaa.webp",
+            "title": "",
+            "text": "",
+            "link_label": "SHOP THIS",
             "link": "",
             "show_box": "false"
           }
