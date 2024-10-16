@@ -96,38 +96,30 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_wYkVx7": {
-      "type": "multicolumn",
+    "h_multicolumn_KCQJMc": {
+      "type": "h-multicolumn",
       "blocks": {
-        "column_ewxiWK": {
+        "column_Ve6QA3": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/19_X_70mm_White-05_1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "SHOP THIS",
-            "link": "shopify://products/10-rolls-label-blind-box"
-          }
-        },
-        "column_zUyxR4": {
-          "type": "column",
-          "settings": {
             "title": "列",
             "text": "<p>将文本与图片配对，以便将焦点置于您选择的产品、产品系列或博客文章。添加有关供货情况和样式的详细信息，甚至是提供评论。</p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_ptRW3j": {
+        "column_tiP7q7": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/19_X_70mm_White-04.jpg",
             "title": "列",
             "text": "<p>将文本与图片配对，以便将焦点置于您选择的产品、产品系列或博客文章。添加有关供货情况和样式的详细信息，甚至是提供评论。</p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_8fGkYM": {
+        "column_FkWMaL": {
           "type": "column",
           "settings": {
             "title": "列",
@@ -138,13 +130,12 @@
         }
       },
       "block_order": [
-        "column_ewxiWK",
-        "column_zUyxR4",
-        "column_ptRW3j",
-        "column_8fGkYM"
+        "column_Ve6QA3",
+        "column_tiP7q7",
+        "column_FkWMaL"
       ],
       "settings": {
-        "title": "",
+        "title": "多列",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -327,7 +318,7 @@
   "order": [
     "image_banner",
     "featured_collection",
-    "multicolumn_wYkVx7",
+    "h_multicolumn_KCQJMc",
     "featured_collection_mPrWdq",
     "featured_collection_W6YcjW",
     "featured_collection_ajghXG",
