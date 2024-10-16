@@ -106,7 +106,8 @@
             "title": "",
             "text": "",
             "link_label": "SHOP THIS",
-            "link": "shopify://products/2024-new-release-m2-2-inch-thermal-transfer-label-maker-smart-color-printing-with-phones-pc-1"
+            "link": "shopify://products/2024-new-release-m2-2-inch-thermal-transfer-label-maker-smart-color-printing-with-phones-pc-1",
+            "show_box": "true"
           }
         },
         "column_tiP7q7": {
@@ -116,7 +117,8 @@
             "title": "列",
             "text": "<p>将文本与图片配对，以便将焦点置于您选择的产品、产品系列或博客文章。添加有关供货情况和样式的详细信息，甚至是提供评论。</p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "show_box": "false"
           }
         },
         "column_FkWMaL": {
@@ -125,7 +127,8 @@
             "title": "列",
             "text": "<p>将文本与图片配对，以便将焦点置于您选择的产品、产品系列或博客文章。添加有关供货情况和样式的详细信息，甚至是提供评论。</p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "show_box": "false"
           }
         }
       },
