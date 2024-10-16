@@ -269,6 +269,7 @@
   flex-direction: column;
   justify-content: center;
   min-width: 200px;
+  padding:2em
 
 }
 .h-multicolumn .multicolumn-list__item.box-item .multicolumn-card__info .inline-richtext{
