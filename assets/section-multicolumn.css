@@ -286,3 +286,8 @@
 .h-multicolumn .multicolumn-list__item{
   margin-bottom:80px
 }
+.multicolumn-card__info .svg_wrap{
+  width:70px;
+  height:70px;
+  margin:0 auto;
+}
