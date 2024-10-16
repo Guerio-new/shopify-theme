@@ -274,5 +274,6 @@
 }
 .h-multicolumn .multicolumn-list__item.box-item .multicolumn-card__info .inline-richtext{
   font-size: 2.125em;
+  white-space:nowarp;
   margin-bottom: 12px;
 }
