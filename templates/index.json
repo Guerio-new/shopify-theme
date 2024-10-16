@@ -359,7 +359,8 @@
             "title": "Free Shipping",
             "text": "<p>Free shipping to US&UK</p><p>Fast shipping worldwide</p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "svg_html": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-tcwi-truck\" viewbox=\"0 0 100 100\"><path d=\"m44.36 67.09-2.17.01h20.46V28.83H22.27v3.93m0 23.71V67.1h8.78l-2.18-.01\"></path><path d=\"M36.62 59.5a5.83 5.83 0 0 0-5.84 5.83 5.84 5.84 0 0 0 11.68 0 5.84 5.84 0 0 0-5.84-5.83Zm41.38 0a5.84 5.84 0 0 0-5.85 5.83 5.84 5.84 0 0 0 11.68 0A5.83 5.83 0 0 0 78 59.5Z\"></path><path d=\"m70.26 67.09 2.17.01h-9.78V34.03h12.31l15.06 15.06h4.67V67.1H83.57l2.18-.01\"></path><path d=\"M66.95 49.1V38h5.49l11.04 11.03-16.53.07zm-38.69-4.57H5.31m27.5-6.72h-15.3m15.3 13.44h-15.3\"></path></svg>"
           }
         },
         "column_y9pjnt": {
@@ -368,7 +369,8 @@
             "title": "12 Month Warranty",
             "text": "<p>1 year maintenance and repair</p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "svg_html": ""
           }
         },
         "column_7fpbqr": {
@@ -377,7 +379,8 @@
             "title": "Secure Payments",
             "text": "<p>Visa, Mastercard, PayPal, Amex，Discover</p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "svg_html": ""
           }
         },
         "column_EGfdez": {
@@ -386,7 +389,8 @@
             "title": "Chat With Us",
             "text": "<p>LiveChat support</p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "svg_html": ""
           }
         }
       },
