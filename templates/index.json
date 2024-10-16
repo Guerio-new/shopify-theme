@@ -136,11 +136,11 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/M2_LABEL_c9e5a9eb-3ef9-4a24-ab0e-771a4e4c2eaa.webp",
-            "title": "",
+            "title": "M2 Labels Buy 3 Get 1 Free",
             "text": "",
             "link_label": "SHOP THIS",
             "link": "",
-            "show_box": "false"
+            "show_box": "true"
           }
         }
       },
