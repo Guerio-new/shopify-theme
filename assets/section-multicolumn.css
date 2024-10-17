@@ -13,10 +13,7 @@
 @media screen and (max-width: 749px) {
   .multicolumn .title-wrapper-with-link {
     margin-bottom: 3rem;
-  }
-  .h-multicolumn .multicolumn-list__item.box-item .multicolumn-card__info .inline-richtext{
-    font-size:1.25em
-  }
+  } 
 }
 
 @media screen and (min-width: 750px) and (max-width: 989px) {
@@ -293,4 +290,9 @@
   width:70px;
   height:70px;
   margin:0 auto;
+}
+@media screen and (max-width: 749px) { 
+  .h-multicolumn .multicolumn-list__item.box-item .multicolumn-card__info .inline-richtext{
+    font-size:1.25em
+  }
 }
