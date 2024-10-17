@@ -500,7 +500,7 @@
   line-height: 1;
 }
 @media screen and (max-width: 750px) {
-  ..banner__heading {
+  .banner__heading {
      font-size: 24px;
   }
 }
